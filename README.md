@@ -24,7 +24,8 @@ change.
     require('coffee-cache')
     ```
 
-3. That's it.
+3. That's it. By default the files are cached in the `./.coffee/` directory. If
+   you want to change this, see below.
 
 ## Extra configuration
 
