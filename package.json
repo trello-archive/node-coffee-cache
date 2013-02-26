@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dpatti/node-coffee-cache.git"
+    "url": "https://github.com/FogCreek/node-coffee-cache.git"
   },
   "main": "./lib/coffee-cache",
   "keywords": ["coffee", "cache", "filesystem", "startup"],
