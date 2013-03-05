@@ -1,5 +1,5 @@
 # Run with
-# $ node_modules/.bin/coffee example
+# $ node_modules/.bin/coffee example.coffee
 
 # This file will NOT be compiled to .coffee/, since it was already compiled by
 # coffee by the time you get here
