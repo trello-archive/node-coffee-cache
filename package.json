@@ -10,7 +10,6 @@
   "main": "./lib/coffee-cache",
   "keywords": ["coffee", "cache", "filesystem", "startup"],
   "dependencies": {
-    "coffee-script": "1.6.1",
     "mkpath": "0.1.0"
   },
   "license": "MIT"
