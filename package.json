@@ -2,7 +2,7 @@
   "name": "coffee-cache",
   "author": "Doug Patti <douglas.patti@gmail.com>",
   "description": "Caches the contents of required CoffeeScript files so that they are not recompiled to help improve startup time",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/FogCreek/node-coffee-cache.git"
