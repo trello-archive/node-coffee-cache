@@ -20,5 +20,10 @@
   },
   "peerDependencies": {
     "coffee-script": "^1.6.0"
+  },
+  "devDependencies": {
+    "chai": "^2.0.0",
+    "coffee-script": "^1.6.0",
+    "mocha": "^2.1.0"
   }
 }
