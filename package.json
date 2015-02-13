@@ -5,12 +5,17 @@
   "version": "1.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FogCreek/node-coffee-cache.git"
+    "url": "https://github.com/trello/node-coffee-cache.git"
   },
   "main": "./lib/coffee-cache",
-  "keywords": ["coffee", "cache", "filesystem", "startup"],
+  "keywords": [
+    "coffee",
+    "cache",
+    "filesystem",
+    "startup"
+  ],
+  "license": "MIT",
   "dependencies": {
-    "mkpath": "0.1.0"
-  },
-  "license": "MIT"
+    "mkpath": "^0.1.0"
+  }
 }
