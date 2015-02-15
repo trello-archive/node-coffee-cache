@@ -1,7 +1,8 @@
 # coffee-cache
 
 Caches the contents of required CoffeeScript files so that they are not
-recompiled to help improve startup time.
+recompiled to help improve startup time. Requires CoffeeScript installed at
+version 1.7 or higher.
 
 ## What it does
 
