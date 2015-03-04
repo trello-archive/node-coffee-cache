@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/trello/node-coffee-cache.git"
   },
+  "bin": {
+    "coffee-cache": "./lib/command.js" 
+  },
   "main": "./lib/coffee-cache",
   "keywords": [
     "coffee",
