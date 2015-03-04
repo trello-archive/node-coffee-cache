@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+  - 0.8
+  - 0.10
+  - 0.12
+install:
+  - npm update -g npm
+  - npm install
+  - npm install coffee-script@$COFFEE
+script: npm test
+env:
+  - COFFEE=1.7.x
+  - COFFEE=1.8.x
+  - COFFEE=1.9.x

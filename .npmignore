@@ -1,0 +1,6 @@
+.coffee
+.gitignore
+.npmignore
+example
+node_modules
+test
